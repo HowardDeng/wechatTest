@@ -1,0 +1,5 @@
+<!--popo/popo.wxml-->
+<view class="container">
+<view class="body" class="animation-element" animation="{{animation}}" bindtap="onPop">
+</view>
+</view>
